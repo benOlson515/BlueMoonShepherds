@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Our Dogs</title>
+        
+        <!--developed by Benjamin J Olson-->
+        
+        <meta charset="utf-8">
+        <meta name="keywords" content="mini, aussie, american, australian, shepherd, blue, moon">
+        <meta name="author" content="Ben Olson">
+        
+        <link rel="stylesheet" type="text/css" href="Master_Style.css">
+        
+        <!--disregard jquery/lightbox links and fonts, they are copied from another one of my sites and I plan to incorporate them into this one in the future-->
+        <script src="jquery-1.12.1.js"></script>
+        <link href="lightbox.css" rel="stylesheet">
+        <link href="lightbox.min.css" rel="stylesheet">
+        
+        <style type="text/css">
+            @font-face{
+                font-family: nav;
+                src: url(Urban%20Brush.ttf);
+
+                }
+            @font-face{
+                font-family:main;
+                src: url(Quicksand_Bold.ttf)
+            }
+            
+        </style>
+    </head>
+   
+    <body>
+        
+            <header id="top">
+            <img src="headerbg2.jpg" style="width:100%;">
+               
+                    <nav>
+                        <ul>
+                            <li><a href="index.html">HOME</a></li>
+                            <li><a href="aboutUs.html">ABOUT US</a></li>
+                            <li><a href="puppies.html">AVAILABLE PUPPIES AND DOGS</a></li>
+                            <li><a href="dogs.html">OUR DOGS</a></li>
+                            <li><a href="policies.html">POLICIES</a></li>
+                            <li><a href="training.html">TRAINING YOUR PUPPY</a></li>
+                            <li><a href="tips.html">TIPS AND TRICKS</a></li>
+                            <li><a href="food.html">NUTRITION</a></li>
+                            <li><a href="photos.html">PHOTO GALLERY</a></li>
+                            <li><a> </a></li>
+                        </ul>
+                    </nav>
+                <img src="dogs_winter.JPG" style="width:100%;float:left;">
+            </header>
+            
+            
+           
+            <div id="mainWrap">
+                <div id="con">
+                    <h1>How to Find Us</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque egestas mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce imperdiet erat leo, ac pharetra ante ullamcorper et. Proin vel velit in nunc efficitur mattis. Donec feugiat malesuada nisl in vulputate. Vestibulum viverra libero in pulvinar congue. Pellentesque et finibus risus. In rhoncus purus nec ante rutrum molestie.</p>
+                    <h1>How we Started</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque egestas mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce imperdiet erat leo, ac pharetra ante ullamcorper et. Proin vel velit in nunc efficitur mattis. Donec feugiat malesuada nisl in vulputate. Vestibulum viverra libero in pulvinar congue. Pellentesque et finibus risus. In rhoncus purus nec ante rutrum molestie.</p>
+                    <h1>What We Do</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque egestas mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce imperdiet erat leo, ac pharetra ante ullamcorper et. Proin vel velit in nunc efficitur mattis. Donec feugiat malesuada nisl in vulputate. Vestibulum viverra libero in pulvinar congue. Pellentesque et finibus risus. In rhoncus purus nec ante rutrum molestie.</p>
+                    <h1>Contact Us</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque egestas mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce imperdiet erat leo, ac pharetra ante ullamcorper et. Proin vel velit in nunc efficitur mattis. Donec feugiat malesuada nisl in vulputate. Vestibulum viverra libero in pulvinar congue. Pellentesque et finibus risus. In rhoncus purus nec ante rutrum molestie.</p>
+                        
+                    
+                    
+                </div>
+                
+                <div id="con_pics">
+                        
+                               
+                               
+                </div>
+            </div>
+            
+            <script src="lightbox.js"></script>
+            
+            <footer>
+                
+            </footer>
+            
+        
+    </body>
+</html>
